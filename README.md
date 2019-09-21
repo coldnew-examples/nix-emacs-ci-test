@@ -15,3 +15,5 @@ For more info, please read following links:
 ### Blog Posts
 
 This project is related with [my blog](https://coldnew.github.io) posts in Traditional Chinese: 
+
+- [使用 nix-emacs-ci 和 travis-ci 來測試 emacs-lisp 專案](https://coldnew.github.io/35b9d15a)
